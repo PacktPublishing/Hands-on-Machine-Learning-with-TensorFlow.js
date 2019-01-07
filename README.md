@@ -23,21 +23,24 @@ At the end of the course, you’ll evaluate and implement the right model to des
 To fully benefit from the coverage included in this course, you will need:<br/>
 If you’re a JavaScript developer who wants to implement machine learning to make applications smarter, gain insightful information from the data, and enter the field of machine learning without switching to another language, this is the course for you!
 Working knowledge of JavaScript language is assumed and some background of machine learning concepts will be beneficial.
+
 ### Technical Requirements
 ### Minimum Hardware Requirements:
-OS: Linux, Windows, MAC
-Processor: 2.4 GHz
-Memory: 4 GB
-Storage: 100 GB
+<UL>
+ <LI>OS: Linux, Windows, MAC</LI>
+<LI>Processor: 2.4 GHz</LI>
+<LI>Memory: 4 GB</LI>
+<LI>Storage: 100 GB</LI>
+</UL>
 
-Recommended Hardware Requirements:
+### Recommended Hardware Requirements:
 For an optimal experience with hands-on labs and other practical activities, we recommend the following configuration:
 OS: Linux
 Processor: 3.2 GHz
 Memory: 8 GB
 Storage: 500 GB
 
-Software Requirements:
+### Software Requirements:
 Operating system: Linux, Windows or Mac
 Browser: Chrome (Latest Version)
 Node.js Installed
