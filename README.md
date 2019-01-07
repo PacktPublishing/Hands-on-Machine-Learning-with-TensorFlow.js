@@ -18,13 +18,13 @@ At the end of the course, you’ll evaluate and implement the right model to des
 <LI>Preparatory foundation for more advanced automation and IT streamlining with Ansible 
 <LI>A deeper understanding of Ansible design and usage, paving the way for designing and managing your own automation using Ansible </LI></UL></DIV>
 
-## Instructions and Navigation
+
 ### Assumed Knowledge
 To fully benefit from the coverage included in this course, you will need:<br/>
 If you’re a JavaScript developer who wants to implement machine learning to make applications smarter, gain insightful information from the data, and enter the field of machine learning without switching to another language, this is the course for you!
 Working knowledge of JavaScript language is assumed and some background of machine learning concepts will be beneficial.
 ### Technical Requirements
-<H2>Minimum Hardware Requirements:</H2>
+### Minimum Hardware Requirements:
 OS: Linux, Windows, MAC
 Processor: 2.4 GHz
 Memory: 4 GB
