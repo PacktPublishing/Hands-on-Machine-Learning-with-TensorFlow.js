@@ -24,8 +24,23 @@ To fully benefit from the coverage included in this course, you will need:<br/>
 If you’re a JavaScript developer who wants to implement machine learning to make applications smarter, gain insightful information from the data, and enter the field of machine learning without switching to another language, this is the course for you!
 Working knowledge of JavaScript language is assumed and some background of machine learning concepts will be beneficial.
 ### Technical Requirements
-This course has the following software requirements:<br/>
-Windows 7
+Minimum Hardware Requirements:
+OS: Linux, Windows, MAC
+Processor: 2.4 GHz
+Memory: 4 GB
+Storage: 100 GB
+
+Recommended Hardware Requirements:
+For an optimal experience with hands-on labs and other practical activities, we recommend the following configuration:
+OS: Linux
+Processor: 3.2 GHz
+Memory: 8 GB
+Storage: 500 GB
+
+Software Requirements:
+Operating system: Linux, Windows or Mac
+Browser: Chrome (Latest Version)
+Node.js Installed
 
 ## Related Products
 * [Hands-On Data Visualization with Microsoft Power BI [Video]](https://www.packtpub.com/big-data-and-business-intelligence/hands-data-visualization-microsoft-power-bi-video?utm_source=github&utm_medium=repository&utm_campaign=9781789805185)
