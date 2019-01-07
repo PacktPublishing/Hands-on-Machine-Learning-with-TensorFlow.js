@@ -27,7 +27,7 @@ Working knowledge of JavaScript language is assumed and some background of machi
 ### Technical Requirements
 ### Minimum Hardware Requirements:
 <UL>
- <LI>OS: Linux, Windows, MAC</LI>
+<LI>OS: Linux, Windows, MAC</LI>
 <LI>Processor: 2.4 GHz</LI>
 <LI>Memory: 4 GB</LI>
 <LI>Storage: 100 GB</LI>
@@ -35,16 +35,20 @@ Working knowledge of JavaScript language is assumed and some background of machi
 
 ### Recommended Hardware Requirements:
 For an optimal experience with hands-on labs and other practical activities, we recommend the following configuration:
-OS: Linux
-Processor: 3.2 GHz
-Memory: 8 GB
-Storage: 500 GB
+<UL>
+<LI>OS: Linux</LI>
+<LI>Processor: 3.2 GHz</LI>
+<LI>Memory: 8 GB</LI>
+<LI>Storage: 500 GB</LI>
+</UL>
 
 ### Software Requirements:
-Operating system: Linux, Windows or Mac
-Browser: Chrome (Latest Version)
-Node.js Installed
-
+<UL>
+<LI>Operating system: Linux, Windows or Mac</LI>
+<LI>Browser: Chrome (Latest Version)</LI>
+<LI>Node.js Installed</LI>
+</UL>
+ 
 ## Related Products
 * [Hands-On Data Visualization with Microsoft Power BI [Video]](https://www.packtpub.com/big-data-and-business-intelligence/hands-data-visualization-microsoft-power-bi-video?utm_source=github&utm_medium=repository&utm_campaign=9781789805185)
 
